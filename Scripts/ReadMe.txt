@@ -6,7 +6,7 @@
  3. Deployed Angular App by changing appropriate changes.
  4. Ran the application.
  
- Notes : Commands.txt file has been kepy for all the individual deployments.
+ Notes : Commands.txt file has been kept for all the individual deployments.
  
  #####################################################
           Implemetation Details:
